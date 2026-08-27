@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=dibilovasanek-rgb;Full-Stack+Developer;PRESS+START+TO+BUILD...;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Go+%E2%80%A2+NodeJS;Fast+%E2%80%A2+High+Quality+%E2%80%A2+With+Heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Alexander;Full-Stack+Developer;PRESS+START+TO+BUILD...;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Go+%E2%80%A2+NodeJS;Fast+%E2%80%A2+High+Quality+%E2%80%A2+With+Heart" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -9,6 +9,16 @@
 </p>
 
 </div>
+
+---
+
+### 👨‍💻 About Me
+
+* 👤 **Name:** Александр
+* 🎂 **Age:** 16 years old
+* 📍 **Location:** Russia
+* 🚀 **Status:** Активно открыт для новых проектов, коммерческих заказов и сотрудничества!
+* 💡 Занимаюсь фуллстек-разработкой, игровой логикой и серверной архитектурой. Быстро осваиваю новые технологии и довожу проекты до идеального результата.
 
 ---
 
