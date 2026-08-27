@@ -8,6 +8,7 @@
 </a>
 
 <!-- Пиксельный бегущий Pacman -->
+<!-- Пиксельный бегущий Pacman -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayank-Verma/Mayank-Verma/main/assets/ghost.gif" width="40" />
   <img src="https://raw.githubusercontent.com/Mayank-Verma/Mayank-Verma/main/assets/pacman.gif" width="40" />
