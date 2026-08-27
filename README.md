@@ -14,11 +14,12 @@
 
 ### 👨‍💻 About Me
 
-* 👤 **Name:** Александр
-* 🎂 **Age:** 16 years old
-* 📍 **From:** Russia
-* 🚀  Активно открыт для новых проектов, коммерческих заказов и сотрудничества!
-* 💡 Занимаюсь Fullstack-разработкой, игровой логикой и серверной архитектурой. Быстро осваиваю новые технологии и довожу проекты до идеального результата.
+* 👤 **Имя / Name:** Александр (Alexander)
+* 🎂 **Возраст / Age:** 16 лет
+* 🌍 **Локация / Location:** Россия 🇷🇺
+* 🚀 **Статус:** В активном поиске интересных проектов, заказов и долгосрочного сотрудничества
+* 💻 **Специализация:** Разработка полного цикла (Full-Stack), скриптинг игровой логики, микросервисы и серверная инфраструктура
+* ⚡ **Подход:** Пишу чистый, поддерживаемый код, быстро вникаю в чужие кодовые базы и довожу задачи до рабочего результата в срок
 
 ---
 
@@ -57,13 +58,17 @@
 
 ### ⚔️ Quests & Services
 
-* 🧠 **Ready For Work** — готов брать задачи любой сложности (архитектура, логика игр, скрипты, бэкенд).
-* ⚡ **Very fast Quality** — быстрая реализация, чистый код и поддержка.
-* 💰 **Good Price** — адекватные и гибкие цены под бюджет задачи.
+* 🧠 **Level: Hardcore** — беру задачи любой сложности: архитектура веб-сервисов, логика игровых механик, боты и кастомные скрипты.
+* ⚡ **Speedrun Quality** — быстрая реализация, аккуратная верстка/архитектура и постоянная обратная связь.
+* 💰 **Fair Loot** — честный расчет стоимости под масштаб и бюджет проекта.
 
 ---
 
 ### 📊 Player Stats
+
+<div align="center">
+  <img src="https://media.tenor.com/v5VNyyd_JFEAAAAM/fraymakers-hat-kid.gif" width="100" alt="Hat Kid Animation" />
+</div>
 
 <div align="center">
 
@@ -82,7 +87,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norssup)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
