@@ -16,9 +16,9 @@
 
 * 👤 **Name:** Александр
 * 🎂 **Age:** 16 years old
-* 📍 **Location:** Russia
-* 🚀 **Status:** Активно открыт для новых проектов, коммерческих заказов и сотрудничества!
-* 💡 Занимаюсь фуллстек-разработкой, игровой логикой и серверной архитектурой. Быстро осваиваю новые технологии и довожу проекты до идеального результата.
+* 📍 **From:** Russia
+* 🚀  Активно открыт для новых проектов, коммерческих заказов и сотрудничества!
+* 💡 Занимаюсь Fullstack-разработкой, игровой логикой и серверной архитектурой. Быстро осваиваю новые технологии и довожу проекты до идеального результата.
 
 ---
 
@@ -57,9 +57,9 @@
 
 ### ⚔️ Quests & Services
 
-* 🧠 **Level: Hardcore** — готов брать задачи любой сложности (архитектура, логика игр, скрипты, бэкенд).
-* ⚡ **Speedrun Quality** — быстрая реализация, чистый код и поддержка.
-* 💰 **Fair Loot** — адекватные и гибкие цены под бюджет задачи.
+* 🧠 **Ready For Work** — готов брать задачи любой сложности (архитектура, логика игр, скрипты, бэкенд).
+* ⚡ **Very fast Quality** — быстрая реализация, чистый код и поддержка.
+* 💰 **Good Price** — адекватные и гибкие цены под бюджет задачи.
 
 ---
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norssup)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
