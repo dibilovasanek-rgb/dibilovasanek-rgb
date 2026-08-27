@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=PRESS+START+TO+BUILD...;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Go+%E2%80%A2+NodeJS;Fast+%E2%80%A2+High+Quality+%E2%80%A2+With+Heart;Ready+for+ANY+complexity!" alt="Typing SVG" />
 </a>
 
-<!-- Пиксельный бегущий Pacman -->
-<!-- Пиксельный бегущий Pacman -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-Verma/Mayank-Verma/main/assets/ghost.gif" width="40" />
-  <img src="https://raw.githubusercontent.com/Mayank-Verma/Mayank-Verma/main/assets/pacman.gif" width="40" />
-</p>
-
 </div>
 
 ---
