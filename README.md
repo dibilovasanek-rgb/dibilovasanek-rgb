@@ -1,23 +1,38 @@
 <div align="center">
 
-# 🚀 Full-Stack Developer & Scripter
+<!-- Анимированный пиксельный баннер с печатным текстом -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20games,%20web%20apps%20%26%20high-load%20backends&descFontSize=18&descAlignY=58"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=High+Quality+%E2%80%A2+Fast+%E2%80%A2+With+Heart;Building+scalable+backends;Game+logic+%26+Full-Stack+apps;Ready+for+any+complexity!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=PRESS+START+TO+BUILD...;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Go+%E2%80%A2+NodeJS;Fast+%E2%80%A2+High+Quality+%E2%80%A2+With+Heart;Ready+for+ANY+complexity!" alt="Typing SVG" />
 </a>
 
+<!-- Пиксельный бегущий персонаж -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=120&section=header"/>
+  <img src="https://raw.githubusercontent.com/Mayank-Verma/Mayank-Verma/main/assets/ghost.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/Mayank-Verma/Mayank-Verma/main/assets/pacman.gif" width="40" />
 </p>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🕹️ Pixel Contribution Game (Snake Eating Commits)
 
 <div align="center">
 
+<!-- Змейка, которая анимированно ползает по твоей сетке коммитов -->
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+
+</div>
+
+---
+
+### 🛠️ Inventory & Tech Stack
+
+<div align="center">
+
+<!-- Пиксельные / ретро стилизованные бейджи -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,15 +48,15 @@
 
 ---
 
-### 💼 Work & Collaboration
+### ⚔️ Quests & Services
 
-* 🧠 **Any Complexity:** Architecture, web apps, backend logic, or custom scripts.
-* ⚡ **High Quality & Speed:** Fast delivery, clean code, and full support.
-* 💰 **Flexible Pricing:** Fair, competitive rates tailored to the project scope.
+* 🧠 **Level: Hardcore** — готов брать задачи любой сложности (архитектура, логика игр, скрипты, бэкенд).
+* ⚡ **Speedrun Quality** — быстрая реализация, чистый код и поддержка.
+* 💰 **Fair Loot** — адекватные и гибкие цены под бюджет задачи.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 Player Stats
 
 <div align="center">
 
@@ -56,11 +71,15 @@
 
 ---
 
-### 📩 Get in Touch
+### 📩 Start a Co-Op / Contact Me
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/norssup)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.gg/J6BVZPDrzg))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=70&section=footer"/>
+</p>
