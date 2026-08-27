@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Анимированный пиксельный баннер -->
-<div align="center">
-  <img src="https://img.shields.io/badge/dibilovasanek--rgb-Full--Stack%20Developer-38BDF8?style=for-the-badge&logo=github&logoColor=white" height="120" />
-</div>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=PRESS+START+TO+BUILD...;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Go+%E2%80%A2+NodeJS;Fast+%E2%80%A2+High+Quality+%E2%80%A2+With+Heart;Ready+for+ANY+complexity!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=dibilovasanek-rgb;Full-Stack+Developer;PRESS+START+TO+BUILD...;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Go+%E2%80%A2+NodeJS;Fast+%E2%80%A2+High+Quality+%E2%80%A2+With+Heart" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 </div>
 
@@ -77,7 +76,3 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=70&section=footer"/>
-</p>
