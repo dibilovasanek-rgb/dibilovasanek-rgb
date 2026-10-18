@@ -65,9 +65,6 @@
 
 ### 📊 Player Stats
 
-<img width="1254" height="1254" alt="111122" src="https://github.com/user-attachments/assets/274a539c-8b21-42ee-80f6-d3078bacb846" />
-
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dibilovasanek-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
