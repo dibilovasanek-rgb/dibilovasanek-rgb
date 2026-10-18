@@ -65,9 +65,8 @@
 
 ### 📊 Player Stats
 
-<div align="center">
-  <img src="https://media.tenor.com/v5VNyyd_JFEAAAAM/fraymakers-hat-kid.gif" width="100" alt="Hat Kid Animation" />
-</div>
+<img width="1254" height="1254" alt="111122" src="https://github.com/user-attachments/assets/274a539c-8b21-42ee-80f6-d3078bacb846" />
+
 
 <div align="center">
 
