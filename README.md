@@ -23,7 +23,6 @@
 
 ---
 
-### 🕹️ Pixel Contribution Game
 
 <div align="center">
 
